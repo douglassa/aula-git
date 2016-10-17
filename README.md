@@ -9,3 +9,6 @@
 - git commit -m 'Primeiro commit'
 - git remote add origin https://github.com/douglassa/aula-git.git
 - git push origin master
+
+## Release 0.1.1
+- Adicionado arquivo release
